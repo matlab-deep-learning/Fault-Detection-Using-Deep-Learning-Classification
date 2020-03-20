@@ -43,8 +43,8 @@ Requires
 
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
 - [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)
-- [Image Processing Toolbox](https://www.mathworks.com/products/image.html)
-- [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html)
+- [Signal Processing Toolbox](https://www.mathworks.com/products/signal.html)
+- [Audio Toolbox](https://www.mathworks.com/products/audio.html)
 - [Parallel Computing Toolbox](https://www.mathworks.com/products/parallel-computing.html)
 - [MATLAB Coder](https://www.mathworks.com/products/matlab-coder.html)
 - [GPU Coder](https://www.mathworks.com/products/gpu-coder.html)
