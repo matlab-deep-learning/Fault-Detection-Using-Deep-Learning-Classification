@@ -51,7 +51,6 @@ Requires
 
 **[Download a free MATLAB trial for Deep Learning](https://www.mathworks.com/products/deep-learning.html)**
 
-[![View Object Detection Using YOLO v2 Deep-Learning on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74572-object-detection-using-yolo-v2-deep-learning)
 
 There is also a significant data download required the first time you run the project, which is licensed by Nishchal K. Verma, R. K. Sevakula, S. Dixit and A. Salour and subject to the license terms found in AirCompressorDataset.rights.
 
