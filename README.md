@@ -51,6 +51,7 @@ Requires
 
 **[Download a free MATLAB trial for Deep Learning](https://www.mathworks.com/products/deep-learning.html)**
 
+[![View Fault Detection Using Deep Learning Classification on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74611-fault-detection-using-deep-learning-classification)
 
 There is also a significant data download required the first time you run the project, which is licensed by Nishchal K. Verma, R. K. Sevakula, S. Dixit and A. Salour and subject to the license terms found in AirCompressorDataset.rights.
 
