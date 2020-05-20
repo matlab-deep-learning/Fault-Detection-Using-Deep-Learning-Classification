@@ -1,5 +1,0 @@
--IQ:\work\aircompressorclassification\arm_compute
--IQ:\work\aircompressorclassification
--I$(ARM_COMPUTELIB)
--I$(ARM_COMPUTELIB)\include
--I"C:\Program Files\MATLAB\R2020a\extern\include"
