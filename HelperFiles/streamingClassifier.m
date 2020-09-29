@@ -10,7 +10,7 @@ if isempty(airCompNet)
 end
 
 % Extract features using function
-features = extractFeatures(audioIn,16e3);
+features = extractFeatures(audioIn);
 
 % Normalize 
 features = ((features - M)./S)';
