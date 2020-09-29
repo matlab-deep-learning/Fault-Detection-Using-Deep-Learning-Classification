@@ -41,7 +41,7 @@ To run:
 
 Requires
 
-- [MATLAB](https://www.mathworks.com/products/matlab.html)
+- [MATLAB R2020b](https://www.mathworks.com/products/matlab.html)
 - [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)
 - [Signal Processing Toolbox](https://www.mathworks.com/products/signal.html)
 - [Audio Toolbox](https://www.mathworks.com/products/audio.html)
