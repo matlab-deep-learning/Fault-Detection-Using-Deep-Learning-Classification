@@ -25,4 +25,7 @@ To run:
 1. Open MATLAB project YAircompressorclassification.prj
 1. Open MATLAB project Aircompressorclassification.prj
 2. Open and run Part03_Deployment.mlx
+<<<<<<< HEAD
 
+=======
+>>>>>>> 76411f84a3bd67ed8ec15ed77429c73aa4681f2a
